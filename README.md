@@ -1,6 +1,6 @@
 # go-iri
 
-Package **iri** provides tools for working with **IRI** (**internationalized Resource Identifier**), for the Go programming language.
+Package **iri** provides tools for working with **IRI** (**internationalized resource identifier**), for the Go programming language.
 
 Note that package **iri** is intentionally similar to the Go built-in package `"net/url"`.
 
