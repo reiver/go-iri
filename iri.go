@@ -9,7 +9,7 @@ import (
 //
 // You can think of IRI as URI and URL that supports Unicode.
 // So, an IRI can include Arabic, Cyrillic, Hangul (Korean), Kanji, Persian, emojis, etc.
-// Where, URI and URL would habe to percent-encode to punycode-encode these.
+// Where, URI and URL would have to percent-encode or punycode-encode these.
 //
 // Here is an example IRI:
 //
