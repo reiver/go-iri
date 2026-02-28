@@ -1,4 +1,4 @@
-package iri
+package rfc3987
 
 // IsUnreserved returns whether a rune is an ASCII unreserved character as per IETF RFC-3986 Section 2.3:
 //

@@ -1,4 +1,4 @@
-package iri
+package rfc3987
 
 // IsUCSChar returns whether a rune is in the ucschar ranges as per IETF RFC-3987 Section 2.2:
 //
