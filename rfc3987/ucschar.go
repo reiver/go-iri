@@ -1,11 +1,5 @@
 package iri
 
-import (
-	"strings"
-	"unicode/utf8"
-)
-
-
 // IsUCSChar returns whether a rune is in the ucschar ranges as per IETF RFC-3987 Section 2.2:
 //
 //	ucschar = %xA0-D7FF / %xF900-FDCF / %xFDF0-FFEF
